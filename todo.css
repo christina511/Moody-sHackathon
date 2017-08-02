@@ -1,0 +1,24 @@
+
+body{
+    background-image: url("../images/backgroundimage.jpg");
+    background-size: cover;
+    font-family: "Georgia", Georgia, serif;
+
+}
+
+
+.jumbotron{
+    background:#e6ccff;
+    height:450px;
+}
+.jumbotron img{
+    float:center;
+    max-height:360px;
+}
+#add-btn{
+    background: #e6ccff;
+}
+
+.page-header{
+    color: #6600cc;
+}
